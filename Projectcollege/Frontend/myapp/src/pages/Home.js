@@ -33,7 +33,7 @@ const Home = () => {
         <div class='container'>
           <div class='row mt-5'>
             <div class='col-12 col-sm-12 col-md-6 col-lg-6 d-flex justify-content-center'>
-              <img src='/Images/college/para1.jpg' alt='' height={365} width={300} class=' home-img rounded'/>
+              <img src='/Images/College/para1.jpg' alt='' height={365} width={300} class=' home-img rounded'/>
             </div>
             <div class='col-12 col-sm-12 col-md-6 col-lg-6'>
               <h3 class='home-head5'>Building the Next Generation of Eye Care & Paramedical Professionals</h3>
