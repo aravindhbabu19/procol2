@@ -72,7 +72,7 @@ const About = () => {
           <div class='row'>
             <div class='col-12 col-sm-12 col-md-12 col-lg-6'>
              <div class='d-flex justify-content-center'>
-             <img src='./Images/College/founder.jpg' alt='' height={400}  class='about-img1 rounded mt-5' />
+             <img src='/Images/College/founder.jpg' alt='' height={400}  class='about-img1 rounded mt-5' />
              </div>
              <div class='d-flex justify-content-center'>
              <h4 class='about-head mt-3'>Dr. J. Raghunatha Reddy</h4>
@@ -93,7 +93,7 @@ const About = () => {
           <div class='row'>
             <div class='col-12 col-sm-12 col-md-12 col-lg-6'>
              <div class='d-flex justify-content-center'>
-             <img src='./Images/College/co-founder.jpg' alt='' height={400} class='about-img1 rounded mt-5' />
+             <img src='/Images/College/co-founder.jpg' alt='' height={400} class='about-img1 rounded mt-5' />
              </div>
              <div class='d-flex justify-content-center'>
              <h4 class='about-head mt-3'>Dr. B. Rajeswari Devi </h4>
